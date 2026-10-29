@@ -12,3 +12,8 @@ I'm passionate about technology and learning by doing. Currently building my Git
 - GitHub: @Anny-0990
 
 ✨ _This profile is a work in progress — just like my journey!_
+
+### 🛠️ Skills
+- Learning: Git, GitHub, Markdown
+- Interests: Documentation, Community Support & Writing clear guides
+- Currently focusing on: Outreachy contribution phase
